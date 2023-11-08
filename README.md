@@ -46,3 +46,6 @@ Prompts the player to guess a letter.
 `num_lives`: The number of lives the player has left.
 `word_list`: A list of all the words that the game can choose from.
 `list_of_guesses`: A list of all the letters that the player has guessed.
+
+# Milestone_5
+Only added play_game function
